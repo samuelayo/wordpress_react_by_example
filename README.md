@@ -4,7 +4,7 @@ As mobile developers, integrating data source is a very important aspect of buil
 WordPress as a back-end can be very effective if you're building mobile applications that have a lot of consumable content such as a mobile application for a blog, e-commerce website, e.t.c. 
 It can provide standard endpoints to return the data you need and also provides a standard documentation for all the endpoints you'll require.
 
-[View tutorial](#)
+[View tutorial](https://pusher.com/tutorials/wordpress-react-native)
 
 ## Getting Started
 
